@@ -1,0 +1,15 @@
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.AssemblyInfoInputs.cache
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.AssemblyInfo.cs
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.csproj.CoreCompileInputs.cache
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\bin\Debug\net8.0\SimpleSorting.exe
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\bin\Debug\net8.0\SimpleSorting.deps.json
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\bin\Debug\net8.0\SimpleSorting.runtimeconfig.json
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\bin\Debug\net8.0\SimpleSorting.dll
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\bin\Debug\net8.0\SimpleSorting.pdb
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.dll
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\refint\SimpleSorting.dll
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.pdb
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.genruntimeconfig.cache
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\ref\SimpleSorting.dll
+C:\Users\kulik\source\repos\SimpleSorting\SimpleSorting\obj\Debug\net8.0\SimpleSorting.sourcelink.json
